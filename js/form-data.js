@@ -78,7 +78,7 @@ window.FORM = {
           id: "palabras",
           type: "words",
           label: "¿Con qué tres palabras le gustaría que la gente describa a IDAMHO?",
-          placeholders: ["cercana", "rigurosa", "valiente"],
+          placeholders: ["transparente", "rigurosa", "valiente"],
         },
         {
           id: "color",
