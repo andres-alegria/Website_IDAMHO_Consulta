@@ -14,7 +14,6 @@ window.FORM = {
       "Muchas gracias por su interés en renovar el sitio web y la imagen de IDAMHO.",
       "Estas preguntas me ayudan a entender qué espera usted, para preparar un primer prototipo que podamos revisar juntos. Toman unos 10 minutos.",
     ],
-    signature: "Andrés Alegría",
     note: "Sus respuestas se guardan en este navegador mientras completa el formulario, así que puede cerrarlo y continuar después.",
   },
 
