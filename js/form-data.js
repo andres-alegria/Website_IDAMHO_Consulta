@@ -12,9 +12,8 @@ window.FORM = {
     heading: "Un nuevo sitio web y una imagen renovada para IDAMHO",
     paragraphs: [
       "Muchas gracias por su interés en renovar el sitio web y la imagen de IDAMHO.",
-      "Estas preguntas me ayudan a entender qué espera usted, para preparar un primer prototipo que podamos revisar juntos. Toman unos 10 minutos.",
+      "Estas preguntas me ayudan a entender qué espera usted, para preparar un primer prototipo que podamos revisar juntos. Toman unos 10 minutos. Sus respuestas se guardan en este navegador mientras completa el formulario, así que puede cerrarlo y continuar después.",
     ],
-    note: "Sus respuestas se guardan en este navegador mientras completa el formulario, así que puede cerrarlo y continuar después.",
   },
 
   sections: [

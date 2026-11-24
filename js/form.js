@@ -28,7 +28,6 @@
   $("#intro").append(
     h("h1", null, F.intro.heading),
     ...F.intro.paragraphs.map((p) => h("p", null, p)),
-    h("p", { class: "note" }, F.intro.note),
   );
   $("#by").textContent = F.meta.by;
 
