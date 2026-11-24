@@ -149,7 +149,7 @@ window.FORM = {
             { id: "casos", text: "Un mapa de los casos y conflictos ambientales que IDAMHO acompaña." },
             { id: "historia", text: "Una línea de tiempo con la historia y los logros de IDAMHO." },
             { id: "boletin", text: "La Gaceta Verde por correo electrónico, con un diseño renovado." },
-            { id: "materiales", text: "Una biblioteca de guías, trifolios y radiodramas, fácil de buscar y descargar." },
+            { id: "materiales", text: "Una biblioteca de guías, trifolios y reportes, fácil de buscar y descargar." },
             { id: "ingles", text: "Una versión en inglés para aliados y cooperantes." },
             { id: "redes", text: "Plantillas para redes sociales con la nueva imagen." },
           ],
