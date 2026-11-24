@@ -72,7 +72,6 @@ window.FORM = {
             "Mantenerlo como está",
             "Mantener la idea, pero modernizar el dibujo",
             "Estoy abierta a un logo nuevo",
-            "Prefiero ver opciones antes de decidir",
           ],
         },
         {
