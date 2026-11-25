@@ -135,6 +135,8 @@ input:hover, textarea:hover { border-color: var(--ink); }
 .done p { margin-bottom: 1.5rem; }
 
 footer { max-width: var(--measure); margin: 0 auto; padding: 0 var(--gutter) 3rem; font-size: var(--fs-sm); color: var(--meta); }
+footer a { color: inherit; text-underline-offset: 0.2em; }   /* footer link colour: adjust here */
+footer a:hover { color: var(--emerald); }
 
 @media (prefers-reduced-motion: reduce) {
   #bar, .chip span, .btn, .btn-quiet { transition: none; }
